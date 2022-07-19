@@ -1,0 +1,36 @@
+/* Styles */
+
+* {
+    font-family: 'Roboto', 'Arial';
+}
+
+.section1 {
+    background-color: #1F2937;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+h1 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+a:link {
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+}
+
+.header-list {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
