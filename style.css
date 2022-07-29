@@ -9,6 +9,18 @@
     color: #FFFFFF;
     padding-left: 200px;
     padding-right: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.section2 {
+    margin-top: -40px;
+    background-color: #1F2937;
+    color: #FFFFFF;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 100px;
+    display: flex;
 }
 
 h1 {
@@ -33,9 +45,17 @@ a:link {
 }
 
 .main-text {
-    display: flex;
-    padding-left: 200px;
-    padding-right: 200px;
+    margin-right: 480px;
+}
+
+.subtext {
+    margin-top: -30px;
+    color: #E5E7EB;
+    padding-right: 30px;
+}
+
+.placeholder {
+    margin-top: 50px;
 }
 
 h2 {
@@ -45,7 +65,7 @@ h2 {
 }
 
 .random-information{
-    display: 
+    display: flex;
     flex-direction: column;
     padding-left: 200px;
     padding-right: 200px;
